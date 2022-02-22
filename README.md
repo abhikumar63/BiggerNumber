@@ -4,7 +4,9 @@
 if the correct answer is chosen. New numbers are randomly selected after a user selection.
 
 ## Functionality
+
 The following **required** functionality is completed:
+
 * [x] User can select one of two button options shown
 * [x] The user sees the background color change based on the number (Button) selected
 * [x] The user sees new distinct numbers displayed on the buttons after either button is tapped
@@ -12,3 +14,9 @@ The following **required** functionality is completed:
 ## The following **extensions** are implemented:
 
 * [x] Custom color selected
+
+## Video Walkthrough
+
+Here's a walkthrough video:
+
+<img src='https://j.gifs.com/gZ0RQZ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
